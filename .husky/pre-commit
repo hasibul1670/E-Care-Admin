@@ -1,0 +1,6 @@
+npx lint-staged
+
+# #!/usr/bin/env sh
+# yarn format 
+# # && yarn build
+
